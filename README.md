@@ -16,6 +16,12 @@ Data Engineering & Analytics Professional with 9+ years of experience in:
 - GCP BigQuery
 - Git & GitHub
 
+## 🏆 Certifications
+- Google Cloud Professional Data Engineer
+- Tableau Desktop Specialist
+- Alteryx Designer Core
+- SAFe 5 Practitioner
+
 ## 📌 Featured Projects
 ### Telecom SQL Portfolio
 Telecom analytics use cases involving:
