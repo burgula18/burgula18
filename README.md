@@ -1,6 +1,6 @@
 # Hi, I'm Sai Naren Burgula 👋
 
-Data Engineering & Analytics Professional with 8+ years of experience in:
+Data Engineering & Analytics Professional with 9+ years of experience in:
 - Oracle PL/SQL
 - SQL Development
 - Tableau & Reporting
