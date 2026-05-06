@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Sai Naren Burgula 👋
 
-<!--
-**burgula18/burgula18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineering & Analytics Professional with 8+ years of experience in:
+- Oracle PL/SQL
+- SQL Development
+- Tableau & Reporting
+- ETL Pipelines
+- Airflow
+- GCP BigQuery
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- SQL | PL/SQL
+- Python
+- Tableau
+- Apache Airflow
+- GCP BigQuery
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+### Telecom SQL Portfolio
+Telecom analytics use cases involving:
+- Device utilization
+- Circuit analysis
+- Decommission strategy
+
+### Airflow GCS BigQuery ETL Pipeline
+Enterprise-style ETL pipeline:
+AWS S3 → GCS → BigQuery → SQL Transformations
+
+### Healthcare Claims SQL Analysis
+Healthcare claims analytics using Oracle SQL.
+
+## 📫 Connect With Me
+- LinkedIn: https://https://www.linkedin.com/in/saiburgula/
