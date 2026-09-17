@@ -33,15 +33,17 @@ My current focus is building scalable data engineering solutions using **SQL, Py
 
 ### 📡 Telecom SQL Data Engineering Project
 
-SQL project demonstrating advanced SQL techniques and telecom analytics use cases involving:
+SQL-based data engineering project simulating a telecom network environment and demonstrating:
 
-- Complex joins and aggregations
+- Relational data modeling across sites, devices, and circuits
+- Complex SQL joins and aggregations
 - CTEs and subqueries
-- Window functions
-- Device utilization analysis
-- Circuit analysis
-- Decommissioning scenarios
-- Data validation and analytical queries
+- Window functions (`ROW_NUMBER`, `DENSE_RANK`)
+- CASE-based business rules
+- Device and circuit utilization analysis
+- Decommissioning logic
+- Data validation and quality checks
+- Analytical SQL queries
 
 ---
 
