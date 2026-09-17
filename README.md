@@ -5,8 +5,8 @@
 Data engineering professional experienced in building SQL-based data solutions, ETL pipelines, data transformations, and analytics solutions. Currently expanding my data engineering portfolio with Python, PySpark, and AWS-based data pipelines.
 
 🔧 Tech Stack
-SQL / PL/SQL – Advanced SQL, CTEs, Window Functions, Data Analysis & ETL
-Python – Data Processing, Pandas & ETL
+## SQL / PL/SQL – Advanced SQL, CTEs, Window Functions, Data Analysis & ETL
+## Python – Data Processing, Pandas & ETL
 PySpark – Data Transformation & Distributed Processing
 AWS – S3, Glue, Redshift, Lambda
 Databases – Oracle, Amazon Redshift
