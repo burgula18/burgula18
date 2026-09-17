@@ -1,41 +1,41 @@
 # Hi, I'm Sai Naren Burgula 👋
-### Data Engineering & Analytics Professional | Oracle PL/SQL | Tableau | Airflow | GCP
 
-Data Engineering & Analytics Professional with 9+ years of experience in:
-- Oracle PL/SQL
-- SQL Development
-- Tableau & Reporting
-- ETL Pipelines
-- Airflow
-- GCP BigQuery
+**Data Engineer | SQL | Python | PySpark | AWS**
 
-## 🔧 Tech Stack
-- SQL | PL/SQL
-- Python
-- Tableau
-- Apache Airflow
-- GCP BigQuery
-- Git & GitHub
+Data engineering professional experienced in building SQL-based data solutions, ETL pipelines, data transformations, and analytics solutions. Currently expanding my data engineering portfolio with Python, PySpark, and AWS-based data pipelines.
 
-## 🏆 Certifications
-- Google Cloud Professional Data Engineer
-- Tableau Desktop Specialist
-- Alteryx Designer Core
-- SAFe 5 Practitioner
+🔧 Tech Stack
+SQL / PL/SQL – Advanced SQL, CTEs, Window Functions, Data Analysis & ETL
+Python – Data Processing, Pandas & ETL
+PySpark – Data Transformation & Distributed Processing
+AWS – S3, Glue, Redshift, Lambda
+Databases – Oracle, Amazon Redshift
+Data Engineering – ETL/ELT, Data Pipelines, Data Quality
+Git & GitHub – Version Control
 
-## 📌 Featured Projects
-### Telecom SQL Portfolio
-Telecom analytics use cases involving:
-- Device utilization
-- Circuit analysis
-- Decommission strategy
+🏆 Certifications
+Google Cloud Professional Data Engineer
+Tableau Desktop Specialist
+Alteryx Designer Core
+SAFe 5 Practitioner
 
-### Airflow GCS BigQuery ETL Pipeline
-Enterprise-style ETL pipeline:
-AWS S3 → GCS → BigQuery → SQL Transformations
+## 📌 📌 Featured Data Engineering Projects
 
-### Healthcare Claims SQL Analysis
-Healthcare claims analytics using Oracle SQL.
+## Telecom SQL Data Engineering Project
+SQL project demonstrating complex SQL, CTEs, window functions and telecom device-utilization/decommissioning scenarios.
+
+## Healthcare Claims SQL Analysis
+SQL-based healthcare claims data analysis using joins, aggregations, CTEs and analytical functions.
+
+## Python ETL Pipeline
+Python-based ETL project for extracting, cleaning, transforming and loading datasets using Python, Pandas and SQL.
+
+## AWS S3 → Glue → Redshift ETL Pipeline
+End-to-end AWS data engineering pipeline using S3, AWS Glue, PySpark, Redshift and SQL.
+
+## PySpark Data Engineering Pipeline
+Data transformation pipeline demonstrating joins, aggregations, window functions, data quality checks and partitioned processing using PySpark.
+
 
 ## 📫 Connect With Me
 - LinkedIn: https://https://www.linkedin.com/in/saiburgula/
